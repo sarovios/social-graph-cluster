@@ -9,8 +9,8 @@ public class SocialGraphCluster {
 		
 	public static void main(String[] args) throws IOException {
 		
-		StaticExperimenter staticExperimenter = new StaticExperimenter();
-		EvolvingExperimenter evolvingExperimenter = new EvolvingExperimenter();
+//		StaticExperimenter staticExperimenter = new StaticExperimenter();
+//		EvolvingExperimenter evolvingExperimenter = new EvolvingExperimenter();
 
 		//Choose one of the above experiment
 		
