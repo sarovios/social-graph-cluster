@@ -14,7 +14,7 @@ public class SocialGraphCluster {
 
 		//Choose one of the above experiment
 		
-		staticExperimenter.experiment1();
+//		staticExperimenter.experiment1();
 //		staticExperimenter.experiment2();
 //		staticExperimenter.experiment3();
 //		
