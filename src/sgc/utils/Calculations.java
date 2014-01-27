@@ -16,6 +16,7 @@ import org.ejml.ops.SpecializedOps;
  * for the evaluation and some other stuff
  * 
  * @author sbeis
+ * @email sot.beis@gmail.com
  *
  */
 public class Calculations {

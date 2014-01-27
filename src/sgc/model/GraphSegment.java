@@ -18,6 +18,7 @@ import sgc.utils.Calculations;
  * structures that model the node (source/destination) partitions.
  * 
  * @author smpeis
+ * @email sot.beis@gmail.com
  *
  */
 public class GraphSegment {

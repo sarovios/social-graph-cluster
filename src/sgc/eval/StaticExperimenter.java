@@ -19,6 +19,7 @@ import au.com.bytecode.opencsv.CSVWriter;
  * statistics to a csv file.
  * 
  * @author sbeis
+ * @email sot.beis@gmail.com
  *
  */
 public class StaticExperimenter {

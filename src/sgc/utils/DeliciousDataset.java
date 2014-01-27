@@ -30,6 +30,7 @@ import au.com.bytecode.opencsv.CSVWriter;
  * creation.
  * 
  * @author sbeis
+ * @email sot.beis@gmail.com
  *
  */
 public class DeliciousDataset {

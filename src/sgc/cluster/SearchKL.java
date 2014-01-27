@@ -16,6 +16,7 @@ import sgc.utils.Calculations;
  * SearchKL finds the optimum number of source and destination partitions.
  * 
  * @author sbeis
+ * @email sot.beis@gmail.com
  *
  */
 public class SearchKL {

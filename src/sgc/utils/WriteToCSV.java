@@ -23,6 +23,13 @@ import sgc.eval.Evaluator;
 import au.com.bytecode.opencsv.CSVReader;
 import au.com.bytecode.opencsv.CSVWriter;
 
+/**
+ * This class handles the the writing utilities
+ * 
+ * @author smpeis
+ * @email sot.beis@gmail.com
+ *
+ */
 public class WriteToCSV {
 	
 	String ResultsPath = "data/data-synth/set1/results/"; //this is where the results after experiment is saved.

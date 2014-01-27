@@ -8,9 +8,16 @@ import java.util.Random;
 
 import org.ejml.data.DenseMatrix64F;
 
+/**
+ * This class contain the static graphs generators for the algorithm
+ * evaluation
+ * 
+ * @author smpeis
+ * @email sot.beis@gmail.com
+ *
+ */
 public class BenchmarkGenerator {
 	
-//	static int edgeCounter = 1;
 	private final int MAX_SOURCE_NODES = 500;
 	private final int MAX_DESTINATION_NODES = 800;
 	

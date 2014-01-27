@@ -14,12 +14,12 @@ import sgc.utils.Calculations;
  * best partition (source/destination) in terms of minimum cost.
  * 
  * @author sbeis
+ * @email sot.beis@gmail.com
  *
  */
 public class ReGroup {
 	
 	double cost;
-	double costTreshold = 0.001;
 	
 	public void coCluster(int numOfRowPartitions, int numOfColPartitions, int numberOfSrcNodes, int numberOfDstNodes, 
 			int segmentSize, DenseMatrix64F yLinesPerPartition, DenseMatrix64F xLinesPerPartition, 

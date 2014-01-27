@@ -10,9 +10,11 @@ import java.util.Map;
 import org.ejml.data.DenseMatrix64F;
 
 /**
- * This class contains the functions 
+ * This class contains everything we need in order to work
+ * with evolving synthetic graphs.
  * 
  * @author sbeis
+ * @email sot.beis@gmail.com
  *
  */
 public class SyntheticDataset {

@@ -8,6 +8,7 @@ import java.util.Map;
  * of the predicted clustering. For now we use only the NMI
  * 
  * @author sbeis
+ * @email sot.beis@gmail.com
  *
  */
 public class Metrics {	

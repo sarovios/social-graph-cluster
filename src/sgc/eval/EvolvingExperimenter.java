@@ -17,7 +17,9 @@ import sgc.utils.WriteToCSV;
 /**
  * This class simulates the evolving experiments we made to 
  * evaluate the GraphScope algorithm.
+ * 
  * @author sbeis
+ * @email sot.beis@gmail.com
  *
  */
 public class EvolvingExperimenter {

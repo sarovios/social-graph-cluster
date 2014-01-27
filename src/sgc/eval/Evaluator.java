@@ -20,6 +20,7 @@ import sgc.utils.WriteToCSV;
  * evaluation of the algorithm results. 
  * 
  * @author sbeis
+ * @email sot.beis@gmail.com
  *
  */
 

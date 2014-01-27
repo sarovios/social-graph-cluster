@@ -10,6 +10,7 @@ import sgc.utils.Calculations;
  * for the GraphScope algorithm.
  * 
  * @author sbeis
+ * @email sot.beis@gmail.com
  *
  */
 public class GraphCost {

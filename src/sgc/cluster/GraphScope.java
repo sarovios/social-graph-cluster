@@ -15,6 +15,7 @@ import sgc.model.GraphSegment;
  * are stored to the same segment. Otherwise a new segment is created.
  * 
  * @author sbeis
+ * @email sot.beis@gmail.com
  *
  */
 public class GraphScope {
